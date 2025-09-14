@@ -28,8 +28,6 @@ This project addresses 13 real-world business questions, including:
 13. Categorize content based on the presence of keywords "kill" and "violence" in the description.
 
 # Getting Started
-Clone the repository: git clone <repository-url>.
 Set up Microsoft SQL Server and restore the database using the provided schema.
 Import the Netflix dataset (available on Kaggle) using the SQL Import Wizard.
-
 Execute the SQL queries in the project to replicate the analysis.
